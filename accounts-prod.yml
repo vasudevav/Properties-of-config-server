@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs "
+  message: "Welcome to vasudevBank accounts related production APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
